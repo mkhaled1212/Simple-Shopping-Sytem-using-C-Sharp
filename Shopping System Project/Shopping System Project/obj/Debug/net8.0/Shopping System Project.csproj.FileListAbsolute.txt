@@ -1,0 +1,14 @@
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.AssemblyInfoInputs.cache
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.AssemblyInfo.cs
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\bin\Debug\net8.0\Shopping System Project.exe
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\bin\Debug\net8.0\Shopping System Project.deps.json
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\bin\Debug\net8.0\Shopping System Project.runtimeconfig.json
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\bin\Debug\net8.0\Shopping System Project.dll
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\bin\Debug\net8.0\Shopping System Project.pdb
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.dll
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\refint\Shopping System Project.dll
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.pdb
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\Shopping System Project.genruntimeconfig.cache
+C:\Users\Ibrahim khaled\source\repos\Shopping System Project\Shopping System Project\obj\Debug\net8.0\ref\Shopping System Project.dll
